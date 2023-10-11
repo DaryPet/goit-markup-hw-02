@@ -11,3 +11,46 @@ ul, ol {
 a {
   text-decoration: none;
 }
+.header-logo {
+  color: #4D5AE5;
+font-family: Raleway;
+font-size: 18px;
+font-weight: 700;
+line-height: 21px; /* 116.667% */
+letter-spacing: 0.54px;
+text-transform: uppercase;
+}
+.header-logo-sp {
+  color: #2E2F42;
+}
+.nav-list {
+  color: #2E2F42;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px; /* 150% */
+letter-spacing: 0.32px;
+}
+.nav-link {
+  color: #434455;
+
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; /* 150% */
+letter-spacing: 0.32px;
+}
+/* hero */
+.hero-title {
+  color:#FFF;
+text-align: center;
+font-size: 56px;
+font-weight: 700;
+line-height: 60px; /* 107.143% */
+letter-spacing: 1.12px;
+}
+.hero {
+  background-color: #2E2F42;
+}
+.hero-btn {
+
+}
